@@ -1,17 +1,15 @@
-📘 CLEAN CODE COM SPRING BOOT
-
-Fundamentos e Primeiros Passos em Projetos Java com Spring
+📘 CLEAN CODE COM SPRING BOOT: Fundamentos e Primeiros Passos em Projetos Java com Spring
 
 ℹ️ NOTE: Este repositório foi desenvolvido como parte do bootcamp da Tónnie em parceria com a DIO, onde participei como aluna.
 
 🎯 Objetivo
+
 Este projeto tem como objetivo gerar um ebook digital utilizando ferramentas de Inteligência Artificial, como o ChatGPT e o Leonardo AI, para facilitar a produção de conteúdo técnico e elementos visuais. O ebook aborda boas práticas de Clean Code aplicadas a projetos Java com Spring Boot.
 
 💻 Tecnologias Utilizadas
+
 ChatGPT (OpenAI)
-
 Leonardo AI (para geração de imagens)
-
 PowerPoint / LibreOffice / InDesign (para diagramação final do ebook)
 
 🧠 Prompts Utilizados
@@ -28,11 +26,8 @@ Imagem da capa	A modern software developer coding on futuristic holographic scre
 
 ✨ Destaques
 ✅ Conteúdo gerado via ChatGPT
-
 ✅ Ilustrações criadas com Leonardo AI
-
 ✅ Diagramação feita com PowerPoint
-
 ✅ Ebook voltado a desenvolvedores Java iniciantes e intermediários
 
 📁 Estrutura do Repositório
@@ -46,14 +41,11 @@ Editar
 📄 README.md
 
 🛠️ Como Executar
+
 Gere os textos com o ChatGPT usando os prompts definidos.
-
 Crie imagens ilustrativas com o Leonardo AI.
-
 Faça a diagramação no PowerPoint (ou outra ferramenta de sua preferência).
-
 Exporte o ebook em formato PDF e salve em /output.
-
 Armazene as imagens usadas no ebook dentro da pasta /assets.
 
 
